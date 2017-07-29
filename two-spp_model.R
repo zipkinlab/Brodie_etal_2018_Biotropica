@@ -957,18 +957,3 @@ Sys.time()
 #out$summary  #Show mean, sd, CIs, second to last column is the Rhat, last column is the effect size
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
