@@ -1,5 +1,6 @@
-# Two_species_models-Brodie_et_al_2018
-*Brodie J.E., Helmy O., Mohd-Azlan J., Granados A., Bernard H., Giordano A., and Zipkin E.F. In press. Models for assessing local-scale co-abundance of animal species while accounting for differential detectability and varied responses to the environment. Biotropica.*
+# Models for assessing local-scale co-abundance of animal species while accounting for differential detectability and varied responses to the environment
+
+### Biotropica
 
 ### Please contact the first author for questions about the code or data: Jedediah Brodie (jedediah.brodie@mso.umt.edu)
 
@@ -11,4 +12,4 @@ There are a series of data files associated with this analysis: 1) files beginni
 
 
 ## **Code:**
-two-spp_model.R - R code to run the two species interaction models including code to format the data, create the BUGS text file, and run models in WinBUGS.
+[two-spp_model.R](https://github.com/zipkinlab/Brodie_etal_inpress_Biotropica/blob/master/two-spp_model.R) - R code to run the two species interaction models including code to format the data, create the BUGS text file, and run models in WinBUGS.
