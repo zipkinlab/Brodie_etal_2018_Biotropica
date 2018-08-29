@@ -1,4 +1,6 @@
-# Models for assessing local-scale co-abundance of animal species while accounting for differential detectability and varied responses to the environment
+# [Models for assessing local-scale co-abundance of animal species while accounting for differential detectability and varied responses to the environment](https://onlinelibrary.wiley.com/doi/full/10.1111/btp.12500)
+
+### Jedediah F. Brodie, Olga E. Helmy, Jayasilan Mohd-Azlan, Alys Granados, Henry Bernard, Anthony J. Giordano, Elise Zipkin
 
 ### Biotropica
 
